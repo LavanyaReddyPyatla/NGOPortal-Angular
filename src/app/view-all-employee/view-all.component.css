@@ -1,0 +1,24 @@
+.panel-primary{
+    width:800px;
+    height:fit-content;
+}
+
+.panel-title{
+    
+    text-shadow:5px 5px 15px black;
+}
+
+.imageClass{
+    width: 200px;
+    height: 200px;
+}
+.vertical-align{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+
+   
+    
+}
